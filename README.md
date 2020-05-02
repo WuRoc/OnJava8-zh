@@ -8,9 +8,7 @@ OnJava8 中文翻译
 
 <img src="./docs/cover.png" width=40%>
 
-## 前言
-
-## Index
+## 目录
 
 - [前言](docs/preface.md)
 - [简介](docs/introduction.md)
@@ -68,12 +66,6 @@ OnJava8 中文翻译
 依赖于 `node.js`、`yarn`、`vuepress` 等环境
 
 ```sh
-# node
-node -v
-> v10.14.1
-# yarn
-yarn -v
-> 1.13.0
 # vuepress
 yarn global add vuepress
 
@@ -81,10 +73,11 @@ yarn global add vuepress
 git clone https://github.com/gdut-yy/OnJava8-zh.git
 cd OnJava8-zh
 yarn docs:dev
-
-# 本地阅读
-http://localhost:8080/doc-onjava8/
 ```
+
+## 更多书籍
+
+[https://github.com/xx-zh/xx-zh-roadmap](https://github.com/xx-zh/xx-zh-roadmap)
 
 ## License
 
